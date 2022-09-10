@@ -4,7 +4,9 @@
 Sabbir Sam is a <a href="https://www.youtube.com/channel/UCSuyK8ufCNX-eO4WQJ5u5tA"><img align="center" src="https://img.shields.io/badge/Full%20Stack-Engineer-brightgreen"/></a> + junior WordPress developers and Lead support engineer at <a href="https://www.facebook.com/wppool.dev/">WPPOOL.</a>
 He is also a <a href="#">Video editor/Motion graphics (Animation and product tutorial creator)</a> also an <a href="https://www.behance.net/mdsabbirahmed-sam">Graphic designer(Adove)</a> with 3 years of experience.
 
-Apart from this, @sabbirsam has a passion for teaching and sharing knowledge which led him to start his [YouTube channel](https://www.youtube.com/channel/UCSuyK8ufCNX-eO4WQJ5u5tA) in 2017, where he teaches Programming on WordPress, Python, android development. [All video currently remove- New video will be add soon]
+Apart from this, @sabbirsam has a passion for teaching and sharing knowledge which led him to start his [YouTube channel](https://www.youtube.com/channel/UCSuyK8ufCNX-eO4WQJ5u5tA) in 2017, where he teaches Programming on Python, Artificial Intelligence, Machine learning, Android development and currently working on WordPress Theme and Plugin. [All video currently remove- New video will be add soon]
+
+To be honest, I love learning and trying to keep up with technology in every way. If I say which specific language I like, then Python the most especially artificial intelligence and later since I am working with PHP (Associated with React), I will put it in 2nd option.
 
 </p>
 
