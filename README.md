@@ -1,7 +1,7 @@
 
 ### Hi there,<img src="https://i.pinimg.com/originals/95/c1/0b/95c10ba02011d6474b609c9b5adcc411.gif" width="30">
 
-Sabbir Sam is a <a href="https://www.youtube.com/channel/UCSuyK8ufCNX-eO4WQJ5u5tA"><img align="center" src="https://img.shields.io/badge/Full%20Stack-Engineer-brightgreen"/></a> + junior WordPress developers and Lead support engineer at <a href="https://www.facebook.com/wppool.dev/">WPPOOL.</a>
+Sabbir Sam is a <a href="https://www.youtube.com/channel/UCSuyK8ufCNX-eO4WQJ5u5tA"><img align="center" src="https://img.shields.io/badge/Full%20Stack-Engineer-brightgreen"/></a> + WordPress developers and Lead support engineer Since <a href="https://www.facebook.com/wppool.dev/">2019/2020</a>
 He is also a <a href="#">Video editor/Motion graphics (Animation and product tutorial creator)</a> also an <a href="https://www.behance.net/mdsabbirahmed-sam">Graphic designer(Adove)</a> with 3 years of experience.
 
 Apart from this, @sabbirsam has a passion for teaching and sharing knowledge which led him to start his [YouTube channel](https://www.youtube.com/channel/UCSuyK8ufCNX-eO4WQJ5u5tA) in 2017, where he teaches Programming on Python, Artificial Intelligence, Machine learning, Android development and currently working on WordPress Theme and Plugin. [All video currently remove- New video will be add soon]
