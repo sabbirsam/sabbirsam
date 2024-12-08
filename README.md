@@ -1,7 +1,7 @@
 
 <h1 align="center"><img src="https://i.pinimg.com/originals/95/c1/0b/95c10ba02011d6474b609c9b5adcc411.gif"</h1>
 <h1 align="center">Hi 👋, I'm sabbirsam</h1>
-<h3 align="center">A passionate WordPress developer, MERN stack developer, having bachelor degree in Computer Science and Engineering from Bangladesh</h3>
+<h3 align="center">A passionate WordPress and MERN stack developer, having bachelor degree in Computer Science and Engineering from Bangladesh</h3>
 
 <div style="font-family: 'Roboto', Arial, sans-serif; color: #333; line-height: 1.8; text-align: justify; padding: 20px; background-color: #f4f6f9; border-radius: 12px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);">
     <h2 style="color: #0056b3; margin-bottom: 15px; font-size: 1.8em;">About Me: </h2>
