@@ -3,14 +3,26 @@
 <h1 align="center">Hi 👋, I'm sabbirsam</h1>
 <h3 align="center">A passionate WordPress developer, MERN stack developer, having bachelor degree in Computer Science and Engineering from Bangladesh</h3>
 
-<p style="font-family: 'Helvetica Neue', Arial, sans-serif; color: #444; line-height: 1.6; text-align: justify; padding: 10px; background-color: #f9f9f9; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-    <strong style="font-size: 1.2em; color: #0073aa;">Sabbir Sam</strong> is a versatile professional with expertise in various fields. He is a skilled 
-    <span style="color: #0073aa; font-weight: bold;">WordPress developer</span>, proficient in the <span style="color: #0073aa; font-weight: bold;">MERN stack</span>, and has been serving as a Lead Support+QA engineer since 2019/2020. Additionally, Sabbir is adept at video editing, motion graphics (Animation), and product tutorial creation. His graphic design prowess extends to Adobe software, where he boasts three years of experience.
-    <br><br>
-    Beyond his professional endeavors, <strong style="color: #0073aa;">@sabbirsam</strong> is fueled by a passion for teaching and sharing knowledge. In 2017, he embarked on his journey as a YouTuber, running a channel where he imparts wisdom in diverse subjects such as CSE all subjective video and his current focus on WordPress Theme and Plugin development.
-    <br><br>
-    Sabbir's enthusiasm for learning is unwavering, and he continuously strives to stay abreast of the latest technological advancements. <strong style="color: #0073aa;">Python</strong> holds a special place in his heart, particularly when it comes to Artificial Intelligence. However, he also finds joy in working with <strong style="color: #0073aa;">PHP</strong>, particularly in association with <strong style="color: #0073aa;">React</strong>, which ranks as his second favorite language.
-</p>
+<div style="font-family: 'Roboto', Arial, sans-serif; color: #333; line-height: 1.8; text-align: justify; padding: 20px; background-color: #f4f6f9; border-radius: 12px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);">
+    <h2 style="color: #0056b3; margin-bottom: 15px; font-size: 1.8em;">About Me: </h2>
+    <p style="margin-bottom: 20px; font-size: 1em;">
+        I am a dynamic and versatile professional with extensive experience across multiple domains. Currently, I work as a <strong style="color: #0056b3;">Software Developer at WPPOOL</strong>, where I have spent the past four years contributing to cutting-edge WordPress solutions. My portfolio includes the fresh development of <strong>nine WordPress plugins</strong>, all designed to enhance functionality and improve user experience.
+    </p>
+    <p style="margin-bottom: 20px; font-size: 1em;">
+        Beyond WordPress, I am proficient in the <strong style="color: #0056b3;">MERN stack</strong>, excelling in building high-performance web applications. I also have extensive experience working with <strong style="color: #0056b3;">Google Apps Script</strong> and its <strong style="color: #0056b3;">Sheets API</strong>, enabling me to create efficient, automated solutions for managing and processing data. My role as a Lead Support and QA Engineer since 2019/2020 has further refined my technical skills and problem-solving abilities.
+    </p>
+    <p style="margin-bottom: 20px; font-size: 1em;">
+        My creative side thrives in video editing, motion graphics, and crafting engaging product tutorials, supported by three years of experience using tools like Adobe Suite and Filmora 13.
+    </p>
+    <p style="margin-bottom: 20px; font-size: 1em;">
+        With an insatiable appetite for learning, I continually stay up-to-date with technological advancements. My interests include <strong style="color: #0056b3;">Python</strong>, especially in Artificial Intelligence and all AI API, while <strong style="color: #0056b3;">PHP</strong> combined with <strong style="color: #0056b3;">React</strong> remains a favorite for web development projects. My ability to integrate technical expertise with creative problem-solving ensures I deliver value in every project I undertake.
+    </p>
+    <p style="margin-top: 20px; font-size: 1em; font-style: italic; color: #666;">
+        "Technology evolves, but the drive to innovate and learn is constant." – Sabbir Sam
+    </p>
+</div>
+
+
 
 
 
